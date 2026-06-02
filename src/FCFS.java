@@ -15,7 +15,7 @@ public class FCFS {
 
         // Input Burst Times
         for (int i = 0; i < n; i++) {
-            System.out.print("Enter Burst Time for Process P" + (i + 1) + ": ");m
+            System.out.print("Enter Burst Time for Process P" + (i + 1) + ": ");
             burstTime[i] = sc.nextInt();
         }
 
